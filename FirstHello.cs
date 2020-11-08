@@ -13,7 +13,8 @@ namespace SimpleCSharpConsoleApp
             string firstname = "veera";
             string lastname = "muthu";
             string fullname = firstname + " " + lastname;
-            Console.WriteLine("Hello: "+ fullname);
+            Console.WriteLine("Hello");
+            Console.WriteLine(fullname);
             Console.ReadLine();
         }
     }
