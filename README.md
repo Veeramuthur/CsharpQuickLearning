@@ -1,0 +1,2 @@
+# CsharpbQuickLearning
+Leaning c# basics
