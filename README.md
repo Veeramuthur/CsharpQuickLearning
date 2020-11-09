@@ -1,2 +1,3 @@
 # CsharpbQuickLearning
-Leaning c# basics
+
+Part I - Basic C# Programs.
