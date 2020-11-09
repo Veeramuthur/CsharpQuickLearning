@@ -12,6 +12,7 @@ namespace SimpleCSharpConsoleApp
         {
             int firstnumber = 7;
             int secondnumber = 2;
+            //Create temp variable.
             int afterswap;
 
             afterswap = firstnumber;
